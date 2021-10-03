@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063599626070",
+    "project_id": "study-chinese-with-twitter",
+    "storage_bucket": "study-chinese-with-twitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063599626070:android:23bcfe54e2473a486ba8f7",
+        "android_client_info": {
+          "package_name": "com.luoboanalytics.study_chinese_with_twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063599626070-7c4v4gvn7sre24ecj1b627ocl95s4s5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luoboanalytics.study_chinese_with_twitter",
+            "certificate_hash": "20fd02597d726f0e74afef1c75e08263adc7dc07"
+          }
+        },
+        {
+          "client_id": "1063599626070-5bv4op8eqbimn2g196c7khqs286g2c6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QWazom94EV9zz4QHAwcKjkNLp_YGyOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063599626070-5bv4op8eqbimn2g196c7khqs286g2c6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
